@@ -9,7 +9,7 @@
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 <p align="center">
-  <img alt="Projeto EclipsaGarage" src="images/Imagem do WhatsApp de 2024-07-15 à(s) 18.27.07_33a52f99" width="70%">
+  <img alt="Projeto EclipsaGarage" src="images/Imagem do WhatsApp de 2024-07-15 à(s) 18.27.07_33a52f99.jpg" width="70%">
 </p>
 
 ## Tecnologias
