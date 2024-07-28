@@ -21,6 +21,20 @@ body {
  header .row {
     margin: auto;
 }
+p.text-body-secondary{
+  width: 600px;
+  padding: 10px;
+}
+
+ul.list-unstyled {
+  line-height: 2rem;
+  gap: 23px;
+  display: flex
+}
+.bi{
+  margin-top: 10px;
+}
+
   main .container  {
   background-color: white;
   border-radius: 16px;
@@ -50,14 +64,13 @@ body {
 }
 
 .right-panel {
-  background-color: hsl(202, 55%, 16%);
+  background-color: #122f3f;
   color: white;
   width: 50%;
   text-align: center;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  border-radius: 0px 0px 0px 99px;
 }
 
 .right-panel h2 {
@@ -79,6 +92,7 @@ body {
   font-weight: 600;
   margin-bottom: 8px;
   display: block;
+  color: #80919B;
 }
 
 .form-control,
@@ -90,7 +104,7 @@ body {
 }
 
 .btn-calculate {
-  background-color: hsla(93, 41%, 49%, 0.664);
+  background-color: rgba(120, 176, 74, 0.664);
   border: none;
   border-radius: 9999px;
   padding: 15px;
