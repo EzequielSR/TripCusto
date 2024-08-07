@@ -1,0 +1,16 @@
+{
+  "name": "tripcusto",
+  "version": "1.0.0",
+  "description": "<h1 align= \"center\">TripCusto</h1>\r  TripCusto é uma ferramenta inovadora projetada para ajudar viajantes a tomar decisões informadas ao calcular e comparar os custos de viagens entre diferentes modos de transporte.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "EzequielSR",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "node": "^22.6.0"
+  }
+}
